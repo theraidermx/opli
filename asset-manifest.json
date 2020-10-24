@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/opli/static/css/main.33562c8d.chunk.css",
+    "main.js": "/opli/static/js/main.acf99142.chunk.js",
+    "main.js.map": "/opli/static/js/main.acf99142.chunk.js.map",
+    "runtime-main.js": "/opli/static/js/runtime-main.9ccacdd6.js",
+    "runtime-main.js.map": "/opli/static/js/runtime-main.9ccacdd6.js.map",
+    "static/js/2.50f6e702.chunk.js": "/opli/static/js/2.50f6e702.chunk.js",
+    "static/js/2.50f6e702.chunk.js.map": "/opli/static/js/2.50f6e702.chunk.js.map",
+    "index.html": "/opli/index.html",
+    "precache-manifest.1ee86ae30b4473a96ac983123c3962d4.js": "/opli/precache-manifest.1ee86ae30b4473a96ac983123c3962d4.js",
+    "service-worker.js": "/opli/service-worker.js",
+    "static/css/main.33562c8d.chunk.css.map": "/opli/static/css/main.33562c8d.chunk.css.map",
+    "static/js/2.50f6e702.chunk.js.LICENSE.txt": "/opli/static/js/2.50f6e702.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/opli/static/media/logo.5d5d9eef.svg",
+    "static/media/menu-white.svg": "/opli/static/media/menu-white.5613db24.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ccacdd6.js",
+    "static/js/2.50f6e702.chunk.js",
+    "static/css/main.33562c8d.chunk.css",
+    "static/js/main.acf99142.chunk.js"
+  ]
+}
