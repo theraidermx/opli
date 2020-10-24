@@ -1,0 +1,24 @@
+.Header{
+    text-align: center;
+    background-color: #282c34;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    flex-wrap: nowrap;
+}
+.Header-title{
+    margin-left: 10vw;
+    font-family: Helvetica;
+    font-size: 9vh;
+    font-weight: bold;
+    max-height: 10vh;
+}
+.Header-menu-logo{
+    height: 10vh;
+    margin-right: 10vw;
+    
+}

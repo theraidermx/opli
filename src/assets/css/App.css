@@ -1,10 +1,5 @@
-.App {
+  .App {
     text-align: center;
-  }
-  
-  h1{
-      color: #282c34;
-      font-size: calc(50px + 2vmin);
   }
   
   .App-logo {
@@ -27,18 +22,6 @@
     font-size: calc(10px + 2vmin);
     color: white;
   }
-  /* lo que se muestra debajo de header */
-  .App-space{
-    text-align: center;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    }
-    .App-space .App-input{
-        margin: 1vh;
-        width: 50vw;
-        height: 3em;
-    }
   
   .App-link {
     color: #61dafb;
