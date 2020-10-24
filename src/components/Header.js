@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../assets/images/logo.svg'
+import Menu from '../assets/images/menu-white.svg'
 import '../assets/css/Header.css'
  
 class Header extends React.Component{
@@ -9,9 +9,9 @@ class Header extends React.Component{
                 <div className = 'Header-title'>
                     OPLI
                 </div>
-                
+
                 <div className = 'Header-menu'>
-                    <img src = {Logo} className = 'Header-menu-logo'></img>
+                    <img className = 'Header-menu-logo' src = {Menu}></img>
                 </div>
             </div>
 
